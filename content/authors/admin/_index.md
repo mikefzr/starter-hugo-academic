@@ -22,28 +22,28 @@ social:
     link: https://www.linkedin.com/in/ziran-fu-37b649278/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/risk management_Ziran Fu.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of New South Wales
+    url: https://www.unsw.edu.au/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Business Professionalism
+      institution: University of New South Wales
+      year: 2022
+    - course: Capital Budgeting & Fin Decision
+      institution: University of New South Wales
+      year: 2023
+    - course: Investments & Portfolio Sel.
+      institution: University of New South Wales
+      year: 2023
 superuser: true
 status:
   icon: ☕️
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: z5443867@ad.unsw.edu.au
 ---
 Finance graduate with a strong academic background in financial theory, analysis, and practical application. Skilled in financial modeling, investment analysis, and risk assessment. Proficient in Excel, Bloomberg Terminal, and financial software. Strong critical thinking and problem-solving abilities with excellent communication skills. Eager to contribute knowledge, enthusiasm, and dedication to a dynamic finance team.
 {style="text-align: justify;"}
