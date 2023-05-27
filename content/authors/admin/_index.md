@@ -6,7 +6,7 @@ bio: My research interests include fintech, qualified financing and financial
   analysis.
 interests:
   - Data analysis
-  - artificial intelligence
+  - Artificial intelligence
 social:
   - icon: envelope
     icon_pack: fas
