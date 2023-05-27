@@ -2,31 +2,24 @@
 title: Ziran Fu 付子然
 role: UNSW Finance
 avatar_filename: 1111.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include fintech, qualified financing and financial
+  analysis.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data analysis
+  - artificial intelligence
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/suzumiya233
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ziran-fu-37b649278/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -52,6 +45,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Finance graduate with a strong academic background in financial theory, analysis, and practical application. Skilled in financial modeling, investment analysis, and risk assessment. Proficient in Excel, Bloomberg Terminal, and financial software. Strong critical thinking and problem-solving abilities with excellent communication skills. Eager to contribute knowledge, enthusiasm, and dedication to a dynamic finance team.
 {style="text-align: justify;"}
