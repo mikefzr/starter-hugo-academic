@@ -1,7 +1,7 @@
 ---
 title: Ziran Fu 付子然
-role: UNSW Finance
-avatar_filename: 1111.jpg
+role: Master of Commerce
+avatar_filename: avatar.jpg
 bio: My research interests include fintech, qualified financing and financial
   analysis.
 interests:
