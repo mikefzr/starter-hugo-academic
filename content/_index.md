@@ -23,26 +23,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Bachelor of Economics
+          company: South China Agricultural University
+          company_url: 'https://english.scau.edu.cn/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Guangzhou
+          date_start: '2018-06-01'
+          date_end: '2022-06-01'
           description: |2-
-              Responsibilities include:
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              Finance
+        - title: Master of Commerce
+          company: University of New South Wales
+          company_url: 'https://www.unsw.edu.au/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Sydney
+          date_start: '2023-05-29'
+          date_end: 
+          description: Finance
     design:
       columns: '2'
   - block: markdown
@@ -61,13 +58,13 @@ sections:
       text: |-
         The only way to have a friend is to be one.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: z5443867@ad.unsw.edu.au
+      phone: +61 0492845672
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/suzumiya233'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
