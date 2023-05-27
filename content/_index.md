@@ -3,6 +3,7 @@
 title:
 date: 2022-10-24
 type: landing
+sections:
     design:
       background:
         gradient_end: '#1976d2'
