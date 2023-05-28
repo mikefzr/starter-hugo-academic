@@ -26,7 +26,7 @@ sections:
         - title: Bachelor of Economics
           company: South China Agricultural University
           company_url: 'https://english.scau.edu.cn/'
-          company_logo: org-gc
+          company_logo: South_China_Agricultural_University_logo_adobe_express
           location: Guangzhou
           date_start: '2018-06-01'
           date_end: '2022-06-01'
@@ -35,7 +35,7 @@ sections:
         - title: Master of Commerce
           company: University of New South Wales
           company_url: 'https://www.unsw.edu.au/'
-          company_logo: org-x
+          company_logo: unsw
           location: Sydney
           date_start: '2023-05-29'
           date_end: 
