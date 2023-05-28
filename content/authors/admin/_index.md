@@ -30,13 +30,13 @@ education:
   courses:
     - course: Business Professionalism
       institution: University of New South Wales
-      year: 2022
+      year: ""
     - course: Capital Budgeting & Fin Decision
       institution: University of New South Wales
-      year: 2023
+      year: ""
     - course: Investments & Portfolio Sel.
       institution: University of New South Wales
-      year: 2023
+      year: ""
 superuser: true
 status:
   icon: ☕️
