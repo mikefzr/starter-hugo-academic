@@ -43,7 +43,7 @@ status:
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: z5443867@ad.unsw.edu.au
+email: ziran.fu@student.unsw.edu.au
 ---
 Finance graduate with a strong academic background in financial theory, analysis, and practical application. Skilled in financial modeling, investment analysis, and risk assessment. Proficient in Excel, Bloomberg Terminal, and financial software. Strong critical thinking and problem-solving abilities with excellent communication skills. Eager to contribute knowledge, enthusiasm, and dedication to a dynamic finance team.
 {style="text-align: justify;"}
