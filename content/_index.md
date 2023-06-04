@@ -59,7 +59,6 @@ sections:
         The only way to have a friend is to be one.
       # Contact (add or remove contact options as necessary)
       email: ziran.fu@student.unsw.edu.au
-      phone: +61 0492845672
       contact_links:
         - icon: twitter
           icon_pack: fab
