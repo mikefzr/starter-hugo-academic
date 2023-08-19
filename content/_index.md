@@ -23,23 +23,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Bachelor of Economics
-          company: South China Agricultural University
-          company_url: 'https://english.scau.edu.cn/'
-          company_logo: South_China_Agricultural_University_logo_adobe_express
-          location: Guangzhou
-          date_start: '2018-06-01'
-          date_end: '2022-06-01'
+        - title: Bachelor
+          company: hhh
+          company_url: 
+          company_logo: 
+          location: 
+          date_start: 
+          date_end: 
           description: |2-
               Finance
-        - title: Master of Commerce
-          company: University of New South Wales
-          company_url: 'https://www.unsw.edu.au/'
-          company_logo: unsw
-          location: Sydney
+        - title: Master
+          company: University
+          company_url: 
+          company_logo: 
+          location: 
           date_start: '2023-05-29'
           date_end: 
-          description: Finance
+          description: 
     design:
       columns: '2'
   - block: markdown
@@ -58,12 +58,12 @@ sections:
       text: |-
         The only way to have a friend is to be one.
       # Contact (add or remove contact options as necessary)
-      email: ziran.fu@student.unsw.edu.au
+      email: 
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/suzumiya233'
+          link: 
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
