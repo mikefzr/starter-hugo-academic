@@ -1,13 +1,12 @@
 ---
-title: Changer
+title: bbb
 role: ""
 avatar_filename: ""
 bio: ""
-interests:
-  - Data analysis
-  - Artificial intelligence
+interests: []
 social: []
-organizations: []
+organizations:
+  - name: bbbb
 education:
   courses: []
 superuser: true
